@@ -12,3 +12,6 @@ Developed in a quick one night vibe code session so nothing too serious
 
 ## Disclaimer
 This is an unofficial project and is not affiliated with Spotify or the original Spicetify developers.
+
+![Preview 1](https://i.imgur.com/Ox8Sbkq.png)
+![Preview 2](https://i.imgur.com/UVISwrT.png)
