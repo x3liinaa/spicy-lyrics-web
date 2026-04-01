@@ -7,7 +7,7 @@ const rightSide = document.getElementById('right-side');
 const mainContainer = document.querySelector('main');
 
 const clientId = '36d6e644fd3e47f5ad7f2cde06336e8c';
-const redirectUri = 'http://127.0.0.1:5500';
+const redirectUri = 'https://x3liinaa.github.io/spicy-lyrics-web/';
 const scope = 'user-read-currently-playing';
 
 let currentTrackId = "";
