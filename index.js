@@ -51,7 +51,9 @@ async function exchangeCodeForToken(code) {
         const data = await response.json();
         if (data.access_token) {
             localStorage.setItem('access_token', data.access_token);
-            window.history.replaceState({}, document.title, "/");
+            
+            window.history.replaceState({}, document.title, window.location.pathname);
+            
             startApp();
         }
     } catch (err) {
